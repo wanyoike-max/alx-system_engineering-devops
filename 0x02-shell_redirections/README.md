@@ -44,4 +44,6 @@
 
 * Script 22 shows us how to reverse input
 
-* Script 23 shows us all users and homes of a directory      
+* Script 23 shows us all users and homes of a directory
+
+* Script 100 shows us how to empty directories and subdirectories       
