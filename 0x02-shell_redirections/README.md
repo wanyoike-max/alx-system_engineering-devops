@@ -14,4 +14,6 @@
 
 * Script 7 shows us an alternative to sed on how to get a certain line in a file
 
-* Script 8 shows us how to creates a file into a directory    
+* Script 8 shows us how to creates a file into a directory
+
+* Script 9 shows us how to get the full contents of a file     
