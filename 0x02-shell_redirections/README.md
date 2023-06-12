@@ -38,4 +38,6 @@
 
 * Script 19 shows us how to dispaly all the lines of a directory eith certain charcters
 
-* Script 20 shows us how to replace certain charcaters with others within a file    
+* Script 20 shows us how to replace certain charcaters with others within a file
+
+* Sceipt 21 shows us how to remove certain characters from input     
