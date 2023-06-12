@@ -30,4 +30,6 @@
 
 * script 15 shows us how tolocate and show files with certain words on keys in them
 
-* Script 16 shows us how to list files in a directory which contain a certain line 
+* Script 16 shows us how to list files in a directory which contain a certain line
+
+* Script 17 shows us how to get specific files and the number of lines  
