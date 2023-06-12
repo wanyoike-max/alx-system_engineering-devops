@@ -1,4 +1,4 @@
-#SHELL_REDIRECTIONS
+#SHELL REDIRECTIONS
 
 * Script one show us how to print hello world through a shell script and executable file
 
@@ -21,3 +21,5 @@
 * Script 10 shows us how to get the last line f a file in a directory
 
 * Script 11 shows us how to remove certain file extensions without deleting the directory      
+
+* Script 12 ahows us how to get directories and subdirectories 
