@@ -12,4 +12,6 @@
 
 * Script 6 shows us how to get the contents of the first ten lines of a file
 
-* Script 7 shows us an alternative to sed on how to get a certain line in a file   
+* Script 7 shows us an alternative to sed on how to get a certain line in a file
+
+* Script 8 shows us how to creates a file into a directory    
