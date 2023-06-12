@@ -40,4 +40,6 @@
 
 * Script 20 shows us how to replace certain charcaters with others within a file
 
-* Sceipt 21 shows us how to remove certain characters from input     
+* Sceipt 21 shows us how to remove certain characters from input
+
+* Script 22 shows us how to reverse input      
