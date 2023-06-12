@@ -36,4 +36,6 @@
 
 * Script 18 shows us how to show files that do not contain a certain word
 
-* Script 19 shows us how to dispaly all the lines of a directory eith certain charcters   
+* Script 19 shows us how to dispaly all the lines of a directory eith certain charcters
+
+* Script 20 shows us how to replace certain charcaters with others within a file    
