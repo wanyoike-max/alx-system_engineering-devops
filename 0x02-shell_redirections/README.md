@@ -32,4 +32,6 @@
 
 * Script 16 shows us how to list files in a directory which contain a certain line
 
-* Script 17 shows us how to get specific files and the number of lines  
+* Script 17 shows us how to get specific files and the number of lines
+
+* Script 18 shows us how to show files that do not contain a certain word   
