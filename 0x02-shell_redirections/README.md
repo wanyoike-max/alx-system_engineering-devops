@@ -18,4 +18,6 @@
 
 * Script 9 shows us how to get the full contents of a file
 
-* Script 10 shows us how to get the last line f a file ina ddirectory     
+* Script 10 shows us how to get the last line f a file in a directory
+
+* Script 11 shows us how to remove certain file extensions without deleting the directory      
