@@ -42,4 +42,6 @@
 
 * Sceipt 21 shows us how to remove certain characters from input
 
-* Script 22 shows us how to reverse input      
+* Script 22 shows us how to reverse input
+
+* Script 23 shows us all users and homes of a directory      
