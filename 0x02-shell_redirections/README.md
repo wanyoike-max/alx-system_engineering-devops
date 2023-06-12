@@ -34,4 +34,6 @@
 
 * Script 17 shows us how to get specific files and the number of lines
 
-* Script 18 shows us how to show files that do not contain a certain word   
+* Script 18 shows us how to show files that do not contain a certain word
+
+* Script 19 shows us how to dispaly all the lines of a directory eith certain charcters   
