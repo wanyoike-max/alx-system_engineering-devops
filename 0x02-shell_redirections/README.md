@@ -49,4 +49,5 @@
 * Script 100 shows us how to empty directories and subdirectories
 
 * Script 101 ahows us all the files with a .gif extension in the current directory and all its sub-directories.
-       
+
+* Script 102 shows us a script on how to decript an arcostic poem       
