@@ -26,4 +26,6 @@
 
 * Script 13 show us the 10 newest files in the current directory
 
-* Script 14 shows us how to sort unique files ina directory 
+* Script 14 shows us how to sort unique files in a directory 
+
+* script 15 shows us how tolocate and show files with certain words on keys in them 
