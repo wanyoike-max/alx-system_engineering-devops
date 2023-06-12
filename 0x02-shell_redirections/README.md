@@ -24,4 +24,6 @@
 
 * Script 12 ahows us how to get directories and subdirectories 
 
-* Script 13 show us the 10 newest files in the current directory.
+* Script 13 show us the 10 newest files in the current directory
+
+* Script 14 shows us how to sort unique files ina directory 
