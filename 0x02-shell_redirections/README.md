@@ -7,3 +7,5 @@
 * Script thrree shows us how to display contents of a file in this case the file /etc/psswd
 
 * Script 4 shows us how to display contents of two files in this case /etc/passwd /etc/hosts
+
+* Script 5 show us how to get the contents of the last ten lines of a file 
