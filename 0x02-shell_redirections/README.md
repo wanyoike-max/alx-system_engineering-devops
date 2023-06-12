@@ -46,4 +46,7 @@
 
 * Script 23 shows us all users and homes of a directory
 
-* Script 100 shows us how to empty directories and subdirectories       
+* Script 100 shows us how to empty directories and subdirectories
+
+* Script 101 ahows us all the files with a .gif extension in the current directory and all its sub-directories.
+       
