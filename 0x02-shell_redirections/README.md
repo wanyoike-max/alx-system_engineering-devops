@@ -1,3 +1,5 @@
 #SHELL_REDIRECTIONS#
 
 * Script one show us how to print hello world through a shell script and executable file
+
+* Script two shows us ow to execute a confused smiley and shows us how to use uppercae on letters  
