@@ -23,3 +23,5 @@
 * Script 11 shows us how to remove certain file extensions without deleting the directory      
 
 * Script 12 ahows us how to get directories and subdirectories 
+
+* Script 13 show us the 10 newest files in the current directory.
