@@ -8,4 +8,6 @@
 
 * Script 4 shows us how to display contents of two files in this case /etc/passwd /etc/hosts
 
-* Script 5 show us how to get the contents of the last ten lines of a file 
+* Script 5 show us how to get the contents of the last ten lines of a file
+
+* Script 6 shows us how to get the contents of the first ten lines of a file  
