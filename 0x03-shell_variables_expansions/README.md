@@ -31,3 +31,5 @@
 * Script 100 shows us how to convert from decimal to hexadecimal
 
 * Script 101 shows us how to write a script that encodes and decodes using the rot13 method        
+
+* Script 102 shows us how to print all the lines from the output 
