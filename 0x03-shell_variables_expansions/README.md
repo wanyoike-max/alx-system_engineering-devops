@@ -10,4 +10,6 @@
 
 * Script 4 shows us how to lists enviromental variables 
 
-*  Script 4 shows us how to list all local variables and enviroment vavriables and functions  
+*  Script 5 shows us how to list all local variables and enviroment vavriables and functions  
+
+* Script 6 shows us create a new local variable with a script 
