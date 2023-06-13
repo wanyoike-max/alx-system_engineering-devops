@@ -8,4 +8,6 @@
 
 * Script 3 shows us how to list the number of directories in path
 
-* Script 4 shows us how to list all local variables and enviroment vavriables and functions  
+* Script 4 shows us how to lists enviromental variables 
+
+*  Script 4 shows us how to list all local variables and enviroment vavriables and functions  
