@@ -14,4 +14,6 @@
 
 * Script 6 shows us create a new local variable with a script
 
-* Script 7 ahowa us how to create  a global variable  
+* Script 7 ahowa us how to create  a global variable
+
+* Script 8 shows us how to print 128 to the value stored in the enviromental variable   
