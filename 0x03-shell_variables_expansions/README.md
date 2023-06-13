@@ -32,4 +32,6 @@
 
 * Script 101 shows us how to write a script that encodes and decodes using the rot13 method        
 
-* Script 102 shows us how to print all the lines from the output 
+* Script 102 shows us how to print all the lines from the output
+
+* Script 103 shows us how to ad two numbers stored in enviroment variables WATER AND STIR 
