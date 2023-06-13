@@ -20,4 +20,6 @@
 
 * Script 9 shows us print the results of two fles divided
 
-* Script 10 shows us how to display the results of the files BREATH and LOVE    
+* Script 10 shows us how to display the results of the files BREATH and LOVE
+
+* Script 11 shows us how to convert a number from base 2 to base base 10     
