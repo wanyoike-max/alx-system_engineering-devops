@@ -18,4 +18,6 @@
 
 * Script 8 shows us how to print 128 to the value stored in the enviromental variable
 
-* Script 9 shows us print the results of two fles divided    
+* Script 9 shows us print the results of two fles divided
+
+* Script 10 shows us how to display the results of the files BREATH and LOVE    
