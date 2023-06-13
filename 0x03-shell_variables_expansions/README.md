@@ -4,4 +4,6 @@
 
 * Script 1 shows us how to echho a message into a specific useron alinux distribution system
 
-* Script 2 shows how to add directories to a path 
+* Script 2 shows how to add directories to a path
+
+* Script 3 shows us how to list the number of directories in path  
