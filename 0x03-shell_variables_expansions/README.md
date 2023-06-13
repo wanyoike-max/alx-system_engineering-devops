@@ -6,4 +6,6 @@
 
 * Script 2 shows how to add directories to a path
 
-* Script 3 shows us how to list the number of directories in path  
+* Script 3 shows us how to list the number of directories in path
+
+* Script 4 shows us how to list all local variables and enviroment vavriables and functions  
