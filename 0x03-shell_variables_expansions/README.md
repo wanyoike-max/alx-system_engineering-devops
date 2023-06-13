@@ -1,3 +1,5 @@
 ## SHELL INIT FILES,VARIABLES AND EXPANSIONS
 
-* Script 0 shows us a script on how to make an alias 
+* Script 0 shows us a script on how to make an alias
+
+* Script 1 shows us how to echho a message into a specific useron alinux distribution system
