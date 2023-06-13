@@ -22,4 +22,6 @@
 
 * Script 10 shows us how to display the results of the files BREATH and LOVE
 
-* Script 11 shows us how to convert a number from base 2 to base base 10     
+* Script 11 shows us how to convert a number from base 2 to base base 10
+
+* Script 12 sshows us how to print a..z wice with the exemption of oo     
