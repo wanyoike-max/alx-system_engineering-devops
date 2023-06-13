@@ -26,4 +26,6 @@
 
 * Script 12 sshows us how to print a..z wice with the exemption of oo
 
-* Script 13 shows us how to print a number with 2 decimal points stored in an enviromental variable      
+* Script 13 shows us how to print a number with 2 decimal points stored in an enviromental variable
+
+* Script 100 shows us how to convert from decimal to hexadecimal       
