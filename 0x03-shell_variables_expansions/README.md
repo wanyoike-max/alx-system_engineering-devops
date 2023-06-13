@@ -16,4 +16,6 @@
 
 * Script 7 ahowa us how to create  a global variable
 
-* Script 8 shows us how to print 128 to the value stored in the enviromental variable   
+* Script 8 shows us how to print 128 to the value stored in the enviromental variable
+
+* Script 9 shows us print the results of two fles divided    
