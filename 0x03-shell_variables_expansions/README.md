@@ -28,4 +28,6 @@
 
 * Script 13 shows us how to print a number with 2 decimal points stored in an enviromental variable
 
-* Script 100 shows us how to convert from decimal to hexadecimal       
+* Script 100 shows us how to convert from decimal to hexadecimal
+
+* Script 101 shows us how to write a script that encodes and decodes using the rot13 method        
